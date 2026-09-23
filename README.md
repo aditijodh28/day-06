@@ -34,11 +34,8 @@ Learn TypeScript and React by building a component-based Employee Management Das
 - ♻️ Reusable components
 - 🎣 Custom React hooks
 
-
-📸 Screenshots
-
-## Add your dashboard screenshot here.
-![Employee Dashboard](.day-06/Screenshot 2026-09-23 191120.png)
+## dashboard screenshot 
+![Employee Dashboard](./Screenshot 2026-09-23 191120.png)
 
 
 ## 📁 Project Structure
