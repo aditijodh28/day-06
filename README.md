@@ -35,7 +35,9 @@ Learn TypeScript and React by building a component-based Employee Management Das
 - 🎣 Custom React hooks
 
 ## dashboard screenshot 
-![Employee Dashboard](./Screenshot 2026-09-23 191120.png)
+
+<p align="center"> <img src="Screenshot 2026-09-23 191120.png" alt="Employee Dashboard Screenshot" width="900"> </p>
+
 
 
 ## 📁 Project Structure
