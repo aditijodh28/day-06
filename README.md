@@ -55,4 +55,4 @@ npm run dev
 📸 Screenshots
 
 ## Add your dashboard screenshot here.
-![Employee Dashboard](./dashboard.png)
+![Employee Dashboard](./Screenshot 2026-09-23 191120.png)
